@@ -1,0 +1,90 @@
+/* Blog.css */
+
+/* Set a background color for the entire page */
+body {
+    background-color: #f3f4f6; /* Replace with your desired color */
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif; /* Use your preferred font-family */
+  }
+  
+  /* Example styles for the blog container */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff; /* Container background color */
+    padding: 24px; /* Padding for better readability */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+  }
+  
+  /* Example styles for individual blog posts */
+  .post {
+    margin-bottom: 24px;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    background-color: #edf2f7; /* Post background color */
+  }
+  
+  .post-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #2d3748; /* Heading color */
+  }
+  
+  .post-content {
+    margin-bottom: 16px;
+    color: #4a5568; /* Text color */
+  }
+  
+  /* Example styles for headings */
+  .heading-1 {
+    font-size: 3rem;
+    font-weight: bold;
+    margin-bottom: 16px;
+    color: #2d3748; /* Heading color */
+  }
+  
+  .heading-2 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 12px;
+    color: #2d3748; /* Heading color */
+  }
+  
+  /* Example styles for buttons */
+  .button {
+    background-color: #2d3748;
+    color: #ffffff;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #1a202c;
+  }
+  
+  /* Example styles for spacing */
+  .mb-2 {
+    margin-bottom: 8px;
+  }
+  
+  .mb-4 {
+    margin-bottom: 16px;
+  }
+  
+  /* Example styles for lists */
+  .list-disc {
+    list-style-type: disc;
+  }
+  
+  /* Example styles for shadows */
+  .shadow {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  
+  /* Add more custom styles as needed */
+  
